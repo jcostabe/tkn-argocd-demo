@@ -1,0 +1,6 @@
+apiVersion: v2
+name: go-demo
+description: Demo Helm chart for Tekton & ArgoCD example
+type: application
+version: 1.0.0
+appVersion: "20211129012913"
